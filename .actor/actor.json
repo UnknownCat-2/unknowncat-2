@@ -1,5 +1,9 @@
 {
     "actorSpecification": 1, 
     "name": "unknown-cat-actor",
-    "version": "0.0"
+    "version": "0.0.0",
+    "defaultRunOptions": {
+        "timeout": 3600,
+        "memory": 1024
+    }
 }
